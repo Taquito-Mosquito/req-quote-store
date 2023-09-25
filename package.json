@@ -1,0 +1,11 @@
+{
+  "name": "req-quote-store",
+  "version": "1.0.0",
+  "description": "Web App for requesting quotes and material orders and allows for real time collaboration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juston Miears",
+  "license": "ISC"
+}
